@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calender2024</string>
+    <string name="antall_dager_siden_1_januar">Antall dager siden 1. januar</string>
+    <string name="lukk">Lukk</string>
+    <string name="monday">Man</string>
+    <string name="tuesday">Tir</string>
+    <string name="wednesday">Ons</string>
+    <string name="thursday">Tor</string>
+    <string name="friday">Fre</string>
+    <string name="saturday">Lør</string>
+    <string name="sunday">Søn</string>
+    <string name="uke">Uke %1$s</string>
+    <string name="antall_arbeidsdager_i">Antall arbeidsdager i %1$s %2$s: %3$s</string>
+    <string name="er">er</string>
+    <string name="dager">%1$s dager</string>
+    <string name="klikk_p_en_dag_for_finne_antall_arbeidsdager_siden_1_januar">Klikk på en dag for å finne antall arbeidsdager siden 1. januar.</string>
+</resources>
